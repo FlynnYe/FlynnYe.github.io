@@ -23,7 +23,7 @@ repository               : "FlynnYe/FlynnYe.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile1.jpg"
   name             : "Kai Ye"
   pronouns         : # example: "she/her"  
   bio    : "Ph.D. in Electrical & Computer Engineering from University of Pittsburgh. I work on brain neuroimaging, AI for healthcare, and trustworthy machine learning."  # 
