@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Kai Ye, and I recently completed my Ph.D. in Electrical and Computer Engineering at the University of Pittsburgh, advised by Dr. Liang Zhan. My research focuses on **brain neuroimaging, AI for healthcare, and trustworthy machine learning**.
 
-My work has led to first-author publications at **AAAI** and **MICCAI**, including an AAAI **oral** presentation and a MICCAI **oral** presentation that received the **MICCAI STAR Award**. I have also collaborated with Prof. Paul M. Thompson and colleagues on multimodal brain MRI and interpretable models for neurodegenerative disease.
+My work has led to first-author publications at **AAAI** and **MICCAI**, including an AAAI **oral** presentation and a MICCAI **oral** presentation that received the **MICCAI STAR Award**. I have also collaborated with Prof. Paul M. Thompson and Prof. Heng Huang on multimodal brain MRI and interpretable models for neurodegenerative disease.
 
 ### Research interests
 
