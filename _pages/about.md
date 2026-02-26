@@ -20,6 +20,7 @@ My work has led to first-author publications at **AAAI** and **MICCAI**, includi
 
 ### Selected recent work
 
+- **CVPR 2026** – *Conditional Factuality Controlled LLMs with Generalization Certificates via Conformal Sampling*  
 - **AAAI 2024 (oral)** – *Uncertainty Regularized Evidential Regression*  
 - **MICCAI 2023 (oral, STAR Award)** – *Bidirectional Mapping with Contrastive Learning on Multimodal Neuroimaging Data*  
 - Neural Networks 2024 – *BPEN: Brain Posterior Evidential Network for Trustworthy Brain Imaging Analysis*  
