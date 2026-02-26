@@ -15,7 +15,7 @@ My work has led to first-author publications at **AAAI** and **MICCAI**, includi
 
 - Brain Neuroimaging (functional & structural MRI)
 - AI for healthcare  
-- Trustworthy machine learning  
+- Trustworthy machine learning / LLMs
 - Multimodal representation learning
 
 ### Selected recent work
